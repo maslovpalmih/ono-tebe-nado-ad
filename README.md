@@ -1,5 +1,5 @@
 
-https://github.com/maslovpalmih/ono-tebe-nado-ad
+https://github.com/maslovpalmih/posmotri-v-okno-ad
 
 # Оно тебе надо
 
@@ -31,4 +31,5 @@ https://github.com/maslovpalmih/ono-tebe-nado-ad
 
 ## Ссылка на репозиторий
 
-https://github.com/maslovpalmih/ono-tebe-nado-ad
+https://github.com/maslovpalmih/posmotri-v-okno-ad
+
